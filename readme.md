@@ -1,6 +1,2 @@
 some text here 
 
-
-
-hello
-
